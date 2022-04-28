@@ -10,9 +10,12 @@
   <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia University of Applied Sciences</a></h3>
 </p>
 
-- I do full-stack Mobile and Web Development
+- I’m currently working on the SIMHE-app as Mobile Developer with (Flutter/Dart). 😊
 
-- I always enjoy learning new skills 
+- I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
+
+- I always enjoy learning new skills
+
 
 #### What I have learned
 
